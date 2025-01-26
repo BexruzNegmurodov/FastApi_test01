@@ -169,5 +169,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+<<<<<<< HEAD
 .conda
 .yaml
+=======
+>>>>>>> d64c2b726c787a6d037c827642502da6384f599f
